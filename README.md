@@ -9,7 +9,7 @@ LICENSE
 
 COMPILE TOOLS
 ===============
-* 
+* Open FORTRAN F77 compiler
 
 AUTHORS
 ===============
